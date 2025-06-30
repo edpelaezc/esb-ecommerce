@@ -14,8 +14,8 @@ The eShopping project will be redesigned using a polyglot microservices architec
 
 The decision was made to use:
 
-NestJS (TypeScript) to develop microservices for orchestration and exposing business APIs.
-Golang for microservices requiring high performance and concurrent processing.
+- NestJS (TypeScript) to develop microservices for orchestration and exposing business APIs.
+- Golang for microservices requiring high performance and concurrent processing.
 
 ## Consequences
 

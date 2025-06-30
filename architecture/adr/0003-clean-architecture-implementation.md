@@ -22,4 +22,7 @@ It was decided to use hexagonal architecture (Ports & Adapters) in all microserv
 
 ## Consequences
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+- Requiere mayor disciplina y diseño inicial, ya que se deben definir interfaces (puertos) y sus contratos desde el principio.
+- Aumenta la complejidad percibida al inicio, especialmente para desarrolladores sin experiencia en arquitectura limpia o hexagonal.
+- Mejora la mantenibilidad y la capacidad de adaptación a largo plazo.
+- Posible incremento en la inversión de tiempo en formación o refactorización inicial del equipo.
