@@ -20,29 +20,8 @@ To support this architecture, a standardized folder structure was defined for ea
 
 It was decided to use the following base folder structure:
 
-core
-├── application
-│   ├── ProductCreator.ts
-│   └── ProductSearcher.ts
-├── domain
-│   ├── entities
-│   │   └── Product.ts
-│   ├── ports
-│   │   └── repositories
-│   │       └── ProductRepository.ts
-│   └── services
-│       └── ProductService.ts
-infraestructure
-├── adapters
-│   └── PostgresProductRepository.ts
-├── database
-│   └── postgres
-│       └── orm
-└── http-server
-└── api
-├── jwt
-├── model
-└── restcontrollers
+![image](https://github.com/user-attachments/assets/982f5bb3-5a14-47dd-80b7-db7538a3c97b)
+
 
 ## Consequences
 
